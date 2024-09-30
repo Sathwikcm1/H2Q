@@ -1,5 +1,0 @@
-PyMUPDF
-streamlit
-groq 
-fitz
-pandas
